@@ -1,0 +1,28 @@
+{
+    "name": "yusufreis-ext",
+    "publisher": "Administrator",
+    "version": "0.0.1",
+    "database": [],
+    "widgets": [],
+    "views": [
+        {
+            "name": "index",
+            "scripts": ""
+        }
+    ],
+    "language": "php",
+    "status": 0,
+    "service": "",
+    "supportedLiman": "1.1.7a",
+    "support": "administrator@liman.dev",
+    "icon": "",
+    "functions": [
+        {
+            "name": "index",
+            "description": "index",
+            "isActive": "true",
+            "displayLog": "false"
+        }
+    ],
+    "version_code": 1
+}
